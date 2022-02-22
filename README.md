@@ -1,9 +1,5 @@
 # technical-framework
 
-Curated by Sharon Ikechi
-
-Interviewees: Ojimaojo Udale, Jude Dumebi, Bolaji Olajide
-
 Scalable Competency Framework is a tool that defines the competencies of Junior and Senior Software Developers across a range of technical and soft skills within the software engineering industry.
 
 
@@ -18,18 +14,43 @@ Scalable Competency Framework is a tool that defines the competencies of Junior 
 Technical Skills:
 
 1. Technical Knowledge 
+- Programming Languages
+- Data Structures & Algorithms
+- Version Control
+- Databases
+- Operating System
+- Networking
+- Software Testing & Debugging
+- Industry Knowledge
+- Tools and Frameworks
+- Engineering Process Knowledge
+- Software Development
+
+<br>
+
 2. Product Knowledge
+- Product Strategy
+- Product Development
+- Project Management
+- Application Maintenance
 
+<br>
 
-Soft Skills:
+3. Soft Skills:
 
-1. Communication
-2. Team Work
-3. Negotiation
-4. Decision Making
-5. Problem Solving
-6. Attention to Detail
-7. Critical Thinking
-8. Networking
-9. Continuous Learning
-10. Respectfulness & Ethics
+- Communication
+- Team Work
+- Negotiation
+- Decision Making
+- Problem Solving
+- Attention to Detail
+- Critical Thinking
+- Networking
+- Continuous Learning
+- Respectfulness & Ethics
+
+<br>
+
+<i> Curated by Sharon Ikechi </i>
+
+<i> Interviewees: Ojimaojo Udale, Jude Dumebi, Bolaji Olajide </i>
