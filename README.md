@@ -2,12 +2,14 @@
 
 Scalable Competency Framework is a tool that defines the competencies of Junior and Senior Software Developers across a range of technical and soft skills within the software engineering industry.
 
+<br>
 
 **Objectives:**
 
 - To evaluate the skill levels of junior and senior software developers
 - To develop a learning journey for junior developers to become senior software developers (up next)
 
+<br>
 
 **Competency Framework:**
 
