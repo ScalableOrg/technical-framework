@@ -53,6 +53,6 @@ Technical Skills:
 
 <br>
 
-<i> Curated by Sharon Ikechi </i>
+<i> Curated by @sharon_ikechi </i>
 
-<i> Interviewees: Ojimaojo Udale, Jude Dumebi, Bolaji Olajide </i>
+<i> Interviewees: @uncooloj @bigbrutha_ Bolaji Olajide </i>
